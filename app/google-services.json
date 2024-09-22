@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50209615590",
+    "project_id": "rmasgym",
+    "storage_bucket": "rmasgym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50209615590:android:825dace7962a69b23f9527",
+        "android_client_info": {
+          "package_name": "elfak.mosis.rmasfilipvidojkovic18108"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP0C9LqLT1F49fxIJUkiuqHdd7ZLQPEQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
